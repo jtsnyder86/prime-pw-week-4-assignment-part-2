@@ -8,6 +8,11 @@ h2{
     text-align: center;
 }
 
+img{
+    border: 1px dotted dodgerblue;
+    margin: 80px 80px;
+}
+
 h3{
     text-align: center;
     background-color: lavender;
